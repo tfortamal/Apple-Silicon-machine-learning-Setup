@@ -11,7 +11,7 @@ It also has sample code to benchmark the new MacBooks ( M1, M1 Pro, M1 Max, M1 U
 **This repo:** teaches you how to install the most common machine learning and data science packages (software) on your machine and make sure they run using sample code.
 
 ## Steps (how to test your Apple Silicon machine)
-1. Create an environment and install dependencies ([see below](https://github.com/mrdbourke/m1-machine-learning-test#how-to-setup-a-tensorflow-environment-on-m1-m1-pro-m1-max-using-miniforge-shorter-version))
+1. Create an environment and install dependencies
 2. Clone this repo
 3. Run various notebooks (results come at the end of the notebooks)
 
