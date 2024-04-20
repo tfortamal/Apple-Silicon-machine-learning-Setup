@@ -190,7 +190,7 @@ conda activate /Users/daniel/tensorflow-test/env
 If activating your environment went correctly, your terminal window prompt should look something like: 
 
 ```bash
-(/Users/daniel/tensorflow-test/env) daniel@Daniels-MBP tensorflow-test %
+(/Users/tamaldas/tensorflow-test/env) tamal@das-MBA tensorflow-test %
 ```
 
 11. Now we've got a Conda environment setup, it's time to install the software we need.
