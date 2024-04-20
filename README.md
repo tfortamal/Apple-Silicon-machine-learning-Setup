@@ -1,12 +1,12 @@
-# M1, M1 Pro, M1 Max Machine Learning Speed Test Comparison
+# M1, M1 Pro, M1 Max Machine Learning Setup Conda, Pytorch and Speed Test
 
-This repo contains some sample code to benchmark the new M1 MacBooks (M1 Pro and M1 Max) against various other pieces of hardware.
+This repo contains the steps below to set up your M1, M1 Pro, M1 Max, M1 Ultra, or M2 Mac to run the code.
 
-It also has steps below to setup your M1, M1 Pro, M1 Max, M1 Ultra or M2 Mac to run the code.
+It also has sample code to benchmark the new MacBooks ( M1, M1 Pro, M1 Max, M1 Ultra, M2, and more ..) against themselves and various other pieces of hardware.
 
 ## Who is this repo for?
 
-**You:** have a new M1, M1 Pro, M1 Max, M1 Ultra or M2 Mac and would like to get started doing machine learning and data science on it.
+**You:** have a new M1, M1 Pro, M1 Max, M1 Ultra, or M2 Mac and would like to get started doing machine learning and data science on it.
 
 **This repo:** teaches you how to install the most common machine learning and data science packages (software) on your machine and make sure they run using sample code.
 
